@@ -1,7 +1,7 @@
-const byte pin1 = 3;
-const byte pin2 = 5;
+#define pin1 3
+#define pin2 5
+#define bp 4
 
-const byte bp = 4;
 int count = 0;
 
 void setup() {
